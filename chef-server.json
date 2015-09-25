@@ -1,0 +1,5 @@
+{
+    "AWSTemplateFormatVersion": "2010-09-09",
+    "Description": "Template to create a Chef Server using the Chef Server cookbook. This cloud formation template creates and starts the Chef Server with the WebUI enabled.",
+    
+}
